@@ -12,7 +12,7 @@ https://github.com/lyft/scissors
 
 2. 編譯相關資源, 目的是 使用cropView 相關方法
   
-![image](http://i.imgur.com/KkrDTjD.png)
+![image](http://i.imgur.com/JE9mMQK.png)
    
 3. 加載圖片到模組View
   
