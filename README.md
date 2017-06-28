@@ -1,5 +1,5 @@
 # Scissors2
-如果想對圖片進行縮放+裁減
+如果想對圖片進行 縮放+裁切
 
 Scissors  https://github.com/lyft/scissors
 
