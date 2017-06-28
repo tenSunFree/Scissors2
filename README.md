@@ -10,14 +10,16 @@ https://github.com/lyft/scissors
   
 ![image](http://i.imgur.com/KkrDTjD.png)
 
-2. compile 'com.lyft:scissors:1.1.1'
-   目的是, 使用cropView 相關方法
+2. 編譯相關資源, 目的是 使用cropView 相關方法
+  
+![image](http://i.imgur.com/KkrDTjD.png)
    
 3. 加載圖片到模組View
-   cropView.setImageBitmap(bitmap1);
+  
+![image](http://i.imgur.com/xcbJSJe.png)
    
 4. 把超出模組View的地方刪掉, 只保留View以內的
    並且取代原本的圖片
-   bitmap2 = mCropView.crop();
-   mCropView.setImageBitmap(bitmap2);
+  
+![image](http://i.imgur.com/gXpbDCS.png)
 
