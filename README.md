@@ -7,11 +7,7 @@ https://github.com/lyft/scissors
 使用方法:
 
 1. 建立模組View, 任何放進來的圖片都可以任意縮放
-   <com.lyft.android.scissors.CropView
-    android:id="@+id/crop_view"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    app:cropviewViewportRatio="1" />
+   http://i.imgur.com/KkrDTjD.png
 
 2. compile 'com.lyft:scissors:1.1.1'
    目的是, 使用cropView 相關方法
