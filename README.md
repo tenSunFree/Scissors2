@@ -18,8 +18,7 @@ https://github.com/lyft/scissors
   
 ![image](http://i.imgur.com/xcbJSJe.png)
    
-4. 把超出模組View的地方刪掉, 只保留View以內的
-   並且取代原本的圖片
+4. 把超出模組View的地方刪掉, 只保留View以內的, 並且取代原本的圖片
   
 ![image](http://i.imgur.com/gXpbDCS.png)
 
